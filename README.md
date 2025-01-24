@@ -49,9 +49,3 @@ Where:
 Conclusions
 
 The project is a work in progress and currently faces challenges with predicting continuous values. Exact matches with actual prices in the dataset are difficult unless the model is overfitting.
-
-To improve the model, future steps could include:
-
-    Calculating and analyzing error metrics like Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE).
-    Visualizing the deviation of predicted prices from actual prices.
-    Exploring feature scaling or other preprocessing techniques for better predictions.
