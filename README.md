@@ -40,7 +40,7 @@ Key Features
 Formula Used
 
 The project uses the normalization formula to calculate the weights (w) for the model:
-w=(XTX)−1XTYw=(XTX)−1XTY
+w=(XTX)^(−1)XTYw=(XTX)^(−1)XTY
 Where:
 
     XX: Feature matrix with an intercept term.
